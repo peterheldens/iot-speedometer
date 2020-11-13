@@ -2,7 +2,8 @@
     "name": "iot speedometer",
     "description": "",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "radio-broadcast": "*"
     },
     "files": [
         "main.blocks",
