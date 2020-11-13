@@ -721,7 +721,7 @@ namespace speedometer {
             serial.writeValue(text, this.digits(num, 100))
         } 
         if (this.radioOn) {
-            radio.sendValue(text, this.digits(num, 100))
+            //removed the radioo
         }
         basic.pause(5)
     }
