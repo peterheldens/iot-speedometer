@@ -3,8 +3,7 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio-broadcast": "*",
-        "radio": "*"
+        "radio-broadcast": "*"
     },
     "files": [
         "main.blocks",
